@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mera Pehla Design</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #ff4500;
+        }
+        p {
+            color: #333333;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello World! Main Coder Ban Gaya.</h1>
+    <p>आज मैंने अपनी वेबसाइट का रंग और डिज़ाइन बदल दिया है!</p>
+</body>
+</html>
